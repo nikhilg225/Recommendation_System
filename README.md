@@ -5,7 +5,7 @@ I have tried to build my own recommendation system based on 2 well-known approac
 <br/>
 This is the Window Executable Application which tries to recommend Mobile Applications based on user past experience of other apps and popular apps irrespective of user's preference.
 <br/>
-Java supports a bunch of GUI features. I have used NetBeans IDE to develop different pages in the Recommendation System Application. For database management, I have used MySQL and JDBC.
+Java supports a bunch of GUI features. I have used NetBeans IDE to develop different pages in the Recommendation System Application. For database management, I have used MySQL. JDBC is used to connect MySQL database to the java program.
 <br/>
 I will be implementing 2 Approaches which are-
 1. Collaborative Filtering Approach based on Memory-Based Techniques using Cosine Similarity to find the closest neighbour. (User-based CF)
